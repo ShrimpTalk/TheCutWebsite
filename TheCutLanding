@@ -37,7 +37,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="logo.png" alt="TH3 CUT Logo" />
+    <img src="Th3CutLogo.png" alt="TH3 CUT Logo" />
     <h1>Welcome to TH3 CUT</h1>
     <a href="#book" class="btn">Book Now</a>
   </div>
